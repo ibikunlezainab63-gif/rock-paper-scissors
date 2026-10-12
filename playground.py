@@ -135,7 +135,6 @@ def rps_game():
             # resets the user's winning streak
             streak_list = []
             print("It's a tie!")
-            print("Adnan did not tie")
 
         else:
             for key, value in win_condition.items():
